@@ -2,7 +2,7 @@
   "shows":[
     {"time": "10:00 am", "show":"Last Holiday"},
     {"time": "11:30 am", "show":"The Simpsons Roasting on an Open fire"},
-    {"time": "12:00 am", "show":"Frozen"},
+    {"time": "12:00 pm", "show":"Frozen"},
     {"time": "01:00 pm", "show":"Futurama: Holiday special 1"},
     {"time": "01:30 pm", "show":"Bad Santa"},
     {"time": "02:00 pm", "show":"Batman Returns"},
@@ -14,20 +14,6 @@
     {"time": "09:30 pm", "show":"Bob's Burgers The Bleakening"},
     {"time": "10:30 pm", "show":"Krampus"},
     {"time": "12:00 pm", "show":"Little Nicky"},
-    {"time": "01:30 am", "show":"Family Guy Christmas special"},
-    {"time": "10:00 am", "show":"Life and Adventure of Santa claus"},
-    {"time": "11:30 am", "show":"Mickeys a Christmas carol"},
-    {"time": "12:00 pm", "show":"Miracle on 34th street"},
-    {"time": "01:40 pm", "show":"Jackie Chan Adventure Holiday"},
-    {"time": "02:00 pm", "show":"Die Hard"},
-    {"time": "03:00 pm", "show":"Happiest Season"},
-    {"time": "04:40 pm", "show":"Planes trains and automobiles"},
-    {"time": "06:00 pm", "show":"Proud family"},
-    {"time": "06:20 pm", "show":"Prince of Egypt"},
-    {"time": "08:00 pm", "show":"Tokyo godfathers"},
-    {"time": "09:40 pm", "show":"Recess"},
-    {"time": "10:00 pm", "show":"American dad holiday special"},
-    {"time": "11:00 pm", "show":"Batman TAS Baby doll and Mr. Freeze"},
-    {"time": "11:40 pm", "show":"Justice Leage"}
+    {"time": "01:30 am", "show":"Family Guy Christmas special"}
   ]
 }
